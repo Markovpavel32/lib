@@ -1,0 +1,13 @@
+.attempts-scroll {
+    padding-bottom: 0;
+  }
+.attempts-list {
+  align-items: center;
+}
+.scroll-item ~ .scroll-item {
+  margin-left: 15px;
+}
+
+.shp-padding-top {
+  padding-top: 10px;
+}
